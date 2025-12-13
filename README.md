@@ -78,28 +78,39 @@ Follow these steps strictly to deploy the system.
 git clone [https://github.com/revoker3661/Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System-.git]( https://github.com/revoker3661/Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System-.git)
 cd Multimodal-Clinical-RAG
 ```
+
 ### Step 2: Create Environment
+
 ```bash
 python -m venv venv
 ```
+
 # Activate environment
 For  Windows:
+
 ```bash
 .\venv\Scripts\activate
 ```
+
 # For Linux/Mac:
+
 ```bash
 source venv/bin/activate
 ```
+
 ### Step 3: Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
+
 ### Step 4: Verify GPU & Versions
 Ensure your CUDA 12.8 environment is ready for 4-bit quantization.
+
 ```bash
 python scripts/check_versions.py
-```________________________________________
+```
+________________________________________
 ### 🧠 Data Ingestion Workflow
 You must populate the vector database before asking questions.
 ### 1. Place Input Data
@@ -108,19 +119,25 @@ Ensure your structured output and images are located in the input_data folder st
 •	input_data/DavidsonMedicine24th/[...images...]
 ### 2. Generate Embeddings
 Run the embedding engine to process text and images using the Dual-Encoders.
+
 ```bash
 python scripts/embed_data.py3. Validate Database
 ```
+
 Check if the vectors are correctly stored in ChromaDB.
+
 ```bash
 python scripts/validate_db.py
-```________________________________________
+```
+________________________________________
 ### ▶️ Usage: Clinical Diagnosis UI
 Launch the Streamlit Interface to interact with the AI doctor assistant.
+
 ```bash
 # Launch the UI
 streamlit run scripts/ui_idefics_app.py
 ```
+
 (Alternatively, you can run streamlit run scripts/streamlit_app.py if using the updated dashboard)
 How to use:
 1.	Upload a patient image (optional) or ask a text question.
@@ -128,6 +145,7 @@ How to use:
 3.	IDEFICS2 analyzes the combined context and provides a diagnosis, causes, and treatment plan.
 ________________________________________
 ### 📂 Project Structure
+
 ```bash
 Plaintext
 Multimodal-Clinical-RAG/
@@ -187,6 +205,7 @@ Multimodal-Clinical-RAG/
     ├── validate_db.py
     └── validate_embeddings.py
 └── README.md                    # 📖 Manual
+
 ```
 ________________________________________
 ### 📊 Performance Metrics
