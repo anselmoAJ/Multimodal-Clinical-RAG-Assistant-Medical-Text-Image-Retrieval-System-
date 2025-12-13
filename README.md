@@ -11,7 +11,7 @@
 
 ###  🖼️ System Visualization
 
-![Project Thumbnail](assets/thumbnail.png)
+![Project Thumbnail](assets/Thumbnail.png)
 
 
 *(The pipeline: Patient Image + Query -> Dual Vector Search -> Multimodal Reasoning -> Diagnosis)*
