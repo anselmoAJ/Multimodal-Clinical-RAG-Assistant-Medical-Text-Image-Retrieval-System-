@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Output databases / embeddings
+output_db/
+
+# Local sessions & cache
+scripts/sessions/
+scripts/__pycache__/
+
+# OS
+.DS_Store

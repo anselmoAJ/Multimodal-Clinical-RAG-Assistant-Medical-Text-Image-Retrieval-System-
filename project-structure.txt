@@ -1,0 +1,71 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is D888-ECC0
+C:.
+|   exact_version.txt
+|   project-structure.txt
+|   requirements.txt
+|   
++---assets
+|       Thumbnail.png
+|       
++---input_data
+|   \---Goldman-Cecil Medicine
+|           figure-1662-2.jpg
+|           figure-1807-3.jpg
+|           figure-2020-4.jpg
+|           figure-2023-5.jpg
+|           figure-2025-6.jpg
+|           figure-2048-7.jpg
+|           figure-2356-8.jpg
+|           figure-968-1.jpg
+|           structured_output.jsonl
+|           
++---output_db
+\---scripts
+    |   app.py
+    |   check_versions.py
+    |   download.py
+    |   embed_data.py
+    |   hello.py
+    |   idefics_pipeline.py
+    |   idefics_pipeline_v3.py
+    |   idefics_pipeline_v3_fix.py
+    |   idefics_pipeline_v4.py
+    |   latestvalidate.py
+    |   retrieve_app.py
+    |   run_out.log
+    |   streamlit_app.py
+    |   test_chroma_query.py
+    |   test_idefics2.py
+    |   ui_idefics_app.py
+    |   validate_db.py
+    |   validate_embeddings.py
+    |   
+    +---sessions
+    |       035f302b.json
+    |       05905bd3.json
+    |       1dd2e1f7.json
+    |       29cc9202.json
+    |       2e830eee.json
+    |       431fb7a7.json
+    |       4950ef35.json
+    |       582812ef.json
+    |       70ec34ae.json
+    |       75161c15.json
+    |       8858f4bc.json
+    |       97f178e2.json
+    |       98e1faf3.json
+    |       9bfd491d.json
+    |       b12de7dd.json
+    |       baf8cd73.json
+    |       d2de4fdf.json
+    |       dc34074c.json
+    |       ec8530c7.json
+    |       f1c3b9e2.json
+    |       fe8d7de1.json
+    |       
+    \---__pycache__
+            app.cpython-312.pyc
+            idefics_pipeline_v3.cpython-312.pyc
+            torch.cpython-312.pyc
+            

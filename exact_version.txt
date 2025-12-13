@@ -1,0 +1,58 @@
+⚡ ~/Medical_Bot/scripts python check_versions.py
+/teamspace/studios/this_studio/Medical_Bot/scripts/check_versions.py:8: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  import pkg_resources
+
+--- Checking Project Library Versions ---
+
+🐍 Python Version: 3.12.11
+
+--- Library Versions ---
+✅ torch: 2.8.0+cu128
+✅ torchvision: 0.23.0+cu128
+✅ transformers: 4.57.0
+✅ sentence-transformers: 5.1.1
+✅ chromadb: 1.1.1
+✅ Pillow: 11.3.0
+✅ tqdm: 4.67.1
+✅ loguru: 0.7.3
+❌ streamlit: Not Found
+❌ ollama: Not Found
+✅ numpy: 1.26.4
+✅ open_clip_torch: 3.2.0
+
+⚡ CUDA Version (via PyTorch): 12.8
+   GPU Detected: NVIDIA L4
+
+--- Version Check Complete ---
+
+⚡ ~/Medical_Bot/scripts 
+
+
+
+
+
+
+
+
+
+🐍 Python Version: 3.12.11
+
+--- Library Versions ---
+✅ torch: 2.8.0+cu128
+✅ torchvision: 0.23.0+cu128
+✅ transformers: 4.57.0
+✅ sentence-transformers: 5.1.1
+✅ chromadb: 1.1.1
+✅ Pillow: 11.3.0
+✅ tqdm: 4.67.1
+✅ loguru: 0.7.3
+✅ streamlit: 1.50.0
+✅ ollama: 0.6.0
+✅ numpy: 1.26.4
+✅ open_clip_torch: 3.2.0
+
+⚡ CUDA Version (via PyTorch): 12.8
+   GPU Detected: NVIDIA L4
+
+
+pip install transformers accelerate bitsandbytes safetensors pillow
